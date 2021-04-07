@@ -1,4 +1,4 @@
-# Minimal Theme
+# Minimal Theme for youth6erry
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
 
